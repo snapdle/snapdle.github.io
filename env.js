@@ -35,7 +35,7 @@ window.env = {
   "npm_config_local_prefix": "/home/cristian/reactspace/snapdle",
   "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
   "COLORTERM": "truecolor",
-  "GIO_LAUNCHED_DESKTOP_FILE_PID": "442481",
+  "GIO_LAUNCHED_DESKTOP_FILE_PID": "940126",
   "COLOR": "1",
   "NVM_DIR": "/home/cristian/.nvm",
   "npm_config_metrics_registry": "https://registry.npmjs.org/",
