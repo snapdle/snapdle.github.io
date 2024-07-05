@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dd694061.css",
-    "main.js": "/static/js/main.920c9e65.js",
+    "main.js": "/static/js/main.36f0b3c2.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/Iceman.png": "/static/media/Iceman.dc75c549374da0f16f62.png",
     "static/media/Snowguard.png": "/static/media/Snowguard.d7de083d9236a52d32c3.png",
@@ -367,10 +367,10 @@
     "static/media/GitHub.png": "/static/media/GitHub.f11021803f68852df283.png",
     "index.html": "/index.html",
     "main.dd694061.css.map": "/static/css/main.dd694061.css.map",
-    "main.920c9e65.js.map": "/static/js/main.920c9e65.js.map"
+    "main.36f0b3c2.js.map": "/static/js/main.36f0b3c2.js.map"
   },
   "entrypoints": [
     "static/css/main.dd694061.css",
-    "static/js/main.920c9e65.js"
+    "static/js/main.36f0b3c2.js"
   ]
 }
