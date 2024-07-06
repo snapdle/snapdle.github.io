@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cb897a26.css",
-    "main.js": "/static/js/main.34f62914.js",
+    "main.js": "/static/js/main.c5669f48.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/Iceman.png": "/static/media/Iceman.dc75c549374da0f16f62.png",
     "static/media/Snowguard.png": "/static/media/Snowguard.d7de083d9236a52d32c3.png",
@@ -359,16 +359,21 @@
     "static/media/YoYo.png": "/static/media/YoYo.39644f5da535ea55f66f.png",
     "static/media/NightNurse.png": "/static/media/NightNurse.fd33ca33eb6f91e2f817.png",
     "static/media/Flatman.png": "/static/media/Flatman.acd1305ccc1f9d896768.png",
+    "static/media/select-rank.png": "/static/media/select-rank.64bb06d07d2373feecdc.png",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/result.png": "/static/media/result.a6d9bf0693e85186b477.png",
+    "static/media/select-card.png": "/static/media/select-card.81bcd6310cc05f5c000c.png",
     "static/media/kofi.png": "/static/media/kofi.ce87749edcbe4f57d773.png",
-    "static/media/80100.jpeg": "/static/media/80100.e6d2fbef460c30dcf055.jpeg",
-    "static/media/6080.jpeg": "/static/media/6080.909c7b527809e24aa76d.jpeg",
+    "static/media/80100en.jpeg": "/static/media/80100en.f55e7dcf76eabe6cc5eb.jpeg",
+    "static/media/80100es.jpeg": "/static/media/80100es.e6d2fbef460c30dcf055.jpeg",
+    "static/media/6080es.jpeg": "/static/media/6080es.909c7b527809e24aa76d.jpeg",
+    "static/media/6080en.jpeg": "/static/media/6080en.26b908b32d77dd2843d0.jpeg",
     "static/media/GitHub.png": "/static/media/GitHub.f11021803f68852df283.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.cb897a26.css",
-    "static/js/main.34f62914.js"
+    "static/js/main.c5669f48.js"
   ]
 }
