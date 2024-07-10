@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb897a26.css",
-    "main.js": "/static/js/main.e7d5f5bd.js",
+    "main.css": "/static/css/main.e36972a1.css",
+    "main.js": "/static/js/main.bea05c14.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/Iceman.png": "/static/media/Iceman.dc75c549374da0f16f62.png",
     "static/media/Snowguard.png": "/static/media/Snowguard.d7de083d9236a52d32c3.png",
@@ -297,6 +297,7 @@
     "static/media/Sera.png": "/static/media/Sera.0f13855c4a8769871ab0.png",
     "static/media/Spell02NicoMinoru.png": "/static/media/Spell02NicoMinoru.b273699d95af0d0ffcf4.png",
     "static/media/LukeCage.png": "/static/media/LukeCage.3e6b71e3df5758289c31.png",
+    "static/media/select-rank.png": "/static/media/select-rank.d3e85f3fb9072eb6b35b.png",
     "static/media/Yellowjacket.png": "/static/media/Yellowjacket.af80e7b4802b03501062.png",
     "static/media/Onslaught.png": "/static/media/Onslaught.567557a3cc76a8eddde7.png",
     "static/media/Forge.png": "/static/media/Forge.f1dcd6b0ff9270ab11d1.png",
@@ -359,11 +360,14 @@
     "static/media/YoYo.png": "/static/media/YoYo.39644f5da535ea55f66f.png",
     "static/media/NightNurse.png": "/static/media/NightNurse.fd33ca33eb6f91e2f817.png",
     "static/media/Flatman.png": "/static/media/Flatman.acd1305ccc1f9d896768.png",
-    "static/media/select-rank.png": "/static/media/select-rank.64bb06d07d2373feecdc.png",
+    "static/media/select-card-phone-2.png": "/static/media/select-card-phone-2.b718afc8154cfe3c860b.png",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/result.png": "/static/media/result.a6d9bf0693e85186b477.png",
+    "static/media/select-card-pc.png": "/static/media/select-card-pc.d958a54a9d73c7109fb0.png",
     "static/media/select-card.png": "/static/media/select-card.81bcd6310cc05f5c000c.png",
+    "static/media/enter.png": "/static/media/enter.da6ee35c2b071898142c.png",
+    "static/media/select-card-phone-1.png": "/static/media/select-card-phone-1.bc7db1ef8d89f563b51e.png",
     "static/media/kofi.png": "/static/media/kofi.ce87749edcbe4f57d773.png",
     "static/media/80100en.jpeg": "/static/media/80100en.f55e7dcf76eabe6cc5eb.jpeg",
     "static/media/80100es.jpeg": "/static/media/80100es.e6d2fbef460c30dcf055.jpeg",
@@ -373,7 +377,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.cb897a26.css",
-    "static/js/main.e7d5f5bd.js"
+    "static/css/main.e36972a1.css",
+    "static/js/main.bea05c14.js"
   ]
 }
