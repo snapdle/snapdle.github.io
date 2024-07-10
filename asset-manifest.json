@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e36972a1.css",
-    "main.js": "/static/js/main.bea05c14.js",
+    "main.js": "/static/js/main.f3e0efed.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/Iceman.png": "/static/media/Iceman.dc75c549374da0f16f62.png",
     "static/media/Snowguard.png": "/static/media/Snowguard.d7de083d9236a52d32c3.png",
@@ -378,6 +378,6 @@
   },
   "entrypoints": [
     "static/css/main.e36972a1.css",
-    "static/js/main.bea05c14.js"
+    "static/js/main.f3e0efed.js"
   ]
 }
