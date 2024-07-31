@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.e36972a1.css",
-    "main.js": "/static/js/main.b66a650e.js",
+    "main.js": "/static/js/main.34216d83.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/Iceman.png": "/static/media/Iceman.da2f1b16bae118c18175.png",
     "static/media/Snowguard.png": "/static/media/Snowguard.c4dd3afad1173aed5b56.png",
+    "static/media/Scream.png": "/static/media/Scream.3812f4ccf7b6125f7d3f.png",
     "static/media/Crystal.png": "/static/media/Crystal.2ef118fe934aaf2aaa35.png",
     "static/media/BetaRayBill.png": "/static/media/BetaRayBill.0aee4bd02df985b39c98.png",
     "static/media/MariaHill.png": "/static/media/MariaHill.1c104e17bc02ac3aec7b.png",
@@ -44,6 +45,7 @@
     "static/media/Blade.png": "/static/media/Blade.c69ba79217c755ddf8ef.png",
     "static/media/Angela.png": "/static/media/Angela.073284be0a50ee6812bb.png",
     "static/media/Rogue.png": "/static/media/Rogue.0ee2d53c5edf94d2e919.png",
+    "static/media/Scorn.png": "/static/media/Scorn.96005c1997894884845e.png",
     "static/media/Venom.png": "/static/media/Venom.a079fe3490c3d91572aa.png",
     "static/media/Gamora.png": "/static/media/Gamora.0173b35b08c2edd7ee91.png",
     "static/media/ShangChi.png": "/static/media/ShangChi.0751e77f9f1515a6a849.png",
@@ -128,11 +130,13 @@
     "static/media/ScarletWitch.png": "/static/media/ScarletWitch.b102dc6e9fe3b4c4605c.png",
     "static/media/AgathaHarkness.png": "/static/media/AgathaHarkness.dbab25e85b880a2e95cf.png",
     "static/media/JessicaJones.png": "/static/media/JessicaJones.5ad9cfbea50ea671e475.png",
+    "static/media/AgentVenom.png": "/static/media/AgentVenom.56a71faa4fde303fd584.png",
     "static/media/Heimdall.png": "/static/media/Heimdall.f133e0c24f7f2af538e4.png",
     "static/media/Gilgamesh.png": "/static/media/Gilgamesh.49070524db18ba508730.png",
     "static/media/RedHulk.png": "/static/media/RedHulk.65d48670d1caef72eaa2.png",
     "static/media/KateBishop.png": "/static/media/KateBishop.5bf42604a83162a03ec3.png",
     "static/media/Selene.png": "/static/media/Selene.947901b7220c79b3c26f.png",
+    "static/media/AntiVenom.png": "/static/media/AntiVenom.b01a4b88dc0f11809a3a.png",
     "static/media/Bast.png": "/static/media/Bast.b4dee40e6c064f54e9f1.png",
     "static/media/Klaw.png": "/static/media/Klaw.c0e1c79010a8197e1cdc.png",
     "static/media/DoomBot.png": "/static/media/DoomBot.798d429f9c6dc433f40e.png",
@@ -147,14 +151,16 @@
     "static/media/Odin.png": "/static/media/Odin.aff2dbca8d6cf287cde5.png",
     "static/media/BlackSwan.png": "/static/media/BlackSwan.f88977b7f8dc163c5796.png",
     "static/media/Darkhawk.png": "/static/media/Darkhawk.e216765d90687cac2822.png",
+    "static/media/Wiccan.png": "/static/media/Wiccan.3fd5bc30f458813c4d98.png",
     "static/media/Cannonball.png": "/static/media/Cannonball.fbff756202034beddc40.png",
     "static/media/Knull.png": "/static/media/Knull.1286b0b2232e1a61e658.png",
-    "static/media/Wiccan.png": "/static/media/Wiccan.46ad7ab527f730600571.png",
     "static/media/Miek.png": "/static/media/Miek.5384e41db0358df44cc6.png",
     "static/media/Domino.png": "/static/media/Domino.31b0dbfe215b19023326.png",
     "static/media/Cosmo.png": "/static/media/Cosmo.9db29952a0dceb9c14e9.png",
+    "static/media/Toxin.png": "/static/media/Toxin.39110deb74bac2220c9d.png",
     "static/media/SnowguardBear.png": "/static/media/SnowguardBear.383b1bfedd5c640b5db3.png",
     "static/media/SpiderMan.png": "/static/media/SpiderMan.74a68092120e2666e17b.png",
+    "static/media/Misery.png": "/static/media/Misery.99a6509fc5eecbda271b.png",
     "static/media/MultipleMan.png": "/static/media/MultipleMan.b9b1929a1503ac765afa.png",
     "static/media/X23.png": "/static/media/X23.ecc5c5319752b7cc40b5.png",
     "static/media/Loki.png": "/static/media/Loki.87831b90b6aff1ef5aa5.png",
@@ -378,6 +384,6 @@
   },
   "entrypoints": [
     "static/css/main.e36972a1.css",
-    "static/js/main.b66a650e.js"
+    "static/js/main.34216d83.js"
   ]
 }
