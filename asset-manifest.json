@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e36972a1.css",
-    "main.js": "/static/js/main.c41f2bf6.js",
+    "main.js": "/static/js/main.cca5361f.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/Iceman.png": "/static/media/Iceman.da2f1b16bae118c18175.png",
     "static/media/Snowguard.png": "/static/media/Snowguard.c4dd3afad1173aed5b56.png",
@@ -133,14 +133,14 @@
     "static/media/ScarletWitch.png": "/static/media/ScarletWitch.b102dc6e9fe3b4c4605c.png",
     "static/media/Loki.png": "/static/media/Loki.2f11dbce25133a8a88c0.png",
     "static/media/JessicaJones.png": "/static/media/JessicaJones.5ad9cfbea50ea671e475.png",
-    "static/media/Surtur.png": "/static/media/Surtur.9ff7553199ac1d7dfb82.png",
     "static/media/MadameWeb.png": "/static/media/MadameWeb.f59b8f106c6f88663f5e.png",
+    "static/media/Frigga.png": "/static/media/Frigga.b4313b6ffda8bdc41b06.png",
     "static/media/Beast.png": "/static/media/Beast.d16aad99ec4d48367433.png",
     "static/media/AgentVenom.png": "/static/media/AgentVenom.56a71faa4fde303fd584.png",
     "static/media/Heimdall.png": "/static/media/Heimdall.f133e0c24f7f2af538e4.png",
     "static/media/RedHulk.png": "/static/media/RedHulk.8182cb0e8b5bcf55977a.png",
     "static/media/Gilgamesh.png": "/static/media/Gilgamesh.49070524db18ba508730.png",
-    "static/media/Frigga.png": "/static/media/Frigga.f3532328c12a2430c8d0.png",
+    "static/media/Surtur.png": "/static/media/Surtur.0454b0fc79d893661090.png",
     "static/media/KateBishop.png": "/static/media/KateBishop.5bf42604a83162a03ec3.png",
     "static/media/Selene.png": "/static/media/Selene.947901b7220c79b3c26f.png",
     "static/media/AntiVenom.png": "/static/media/AntiVenom.b01a4b88dc0f11809a3a.png",
@@ -156,7 +156,6 @@
     "static/media/Thanos.png": "/static/media/Thanos.a6170eb1d052d9c08e2f.png",
     "static/media/Quinjet.png": "/static/media/Quinjet.1ba5872d5fb9833eb01c.png",
     "static/media/Odin.png": "/static/media/Odin.aff2dbca8d6cf287cde5.png",
-    "static/media/BlackSwan.png": "/static/media/BlackSwan.f88977b7f8dc163c5796.png",
     "static/media/Darkhawk.png": "/static/media/Darkhawk.e216765d90687cac2822.png",
     "static/media/Cannonball.png": "/static/media/Cannonball.833f133d238dee668a9e.png",
     "static/media/Wiccan.png": "/static/media/Wiccan.3fd5bc30f458813c4d98.png",
@@ -188,6 +187,7 @@
     "static/media/TimeStone.png": "/static/media/TimeStone.001b38c2c307c0b418c6.png",
     "static/media/SuperSkrull.png": "/static/media/SuperSkrull.e7c0e125decbae2db37f.png",
     "static/media/Zero.png": "/static/media/Zero.92afe8819ad214c00ec7.png",
+    "static/media/BlackSwan.png": "/static/media/BlackSwan.c710aa0ef9319c20e706.png",
     "static/media/Mysterio.png": "/static/media/Mysterio.8610a61d85799ef0806b.png",
     "static/media/Mystique.png": "/static/media/Mystique.0c6c3024268a6949efc6.png",
     "static/media/WhiteTiger.png": "/static/media/WhiteTiger.85a5291167a9f3eb6fa5.png",
@@ -305,6 +305,7 @@
     "static/media/Falcon.png": "/static/media/Falcon.dd25573bf1635004b0d9.png",
     "static/media/Sera.png": "/static/media/Sera.95febb65355b5ca0fb24.png",
     "static/media/Spell02NicoMinoru.png": "/static/media/Spell02NicoMinoru.73a1a80aa0e625b653a1.png",
+    "static/media/Hellcow.png": "/static/media/Hellcow.464c99c7d3e8a8395ec3.png",
     "static/media/LukeCage.png": "/static/media/LukeCage.66066a231ec37653c783.png",
     "static/media/select-rank.png": "/static/media/select-rank.d3e85f3fb9072eb6b35b.png",
     "static/media/Orka.png": "/static/media/Orka.e233cf6059f9ec61adfe.png",
@@ -318,7 +319,6 @@
     "static/media/Vibranium.png": "/static/media/Vibranium.a273ecdf32206740463f.png",
     "static/media/Tombstone.png": "/static/media/Tombstone.e2c1fc5ba7f123647b62.png",
     "static/media/Valentina.png": "/static/media/Valentina.954cec4adeb666db1895.png",
-    "static/media/Hellcow.png": "/static/media/Hellcow.f341df4c1cf4da6c893d.png",
     "static/media/Morph.png": "/static/media/Morph.f7e9ad1a072b11b0bf8c.png",
     "static/media/Colossus.png": "/static/media/Colossus.a8061f05842a29bcd9f4.png",
     "static/media/Korg.png": "/static/media/Korg.ee893727ff1e30b478b8.png",
@@ -390,6 +390,6 @@
   },
   "entrypoints": [
     "static/css/main.e36972a1.css",
-    "static/js/main.c41f2bf6.js"
+    "static/js/main.cca5361f.js"
   ]
 }
