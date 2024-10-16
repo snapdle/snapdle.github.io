@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e36972a1.css",
-    "main.js": "/static/js/main.5b57eeb7.js",
+    "main.js": "/static/js/main.51357aa1.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/Iceman.png": "/static/media/Iceman.da2f1b16bae118c18175.png",
     "static/media/Snowguard.png": "/static/media/Snowguard.c4dd3afad1173aed5b56.png",
@@ -21,6 +21,7 @@
     "static/media/GreenGoblin.png": "/static/media/GreenGoblin.4e8e9940037fe11288d2.png",
     "static/media/Annihilus.png": "/static/media/Annihilus.a9114f3cd54d2d594526.png",
     "static/media/Hawkeye.png": "/static/media/Hawkeye.58edb3fa4ff46e554a5f.png",
+    "static/media/Laufey.png": "/static/media/Laufey.80afddcc996f8b98cb1b.png",
     "static/media/Symbiote.png": "/static/media/Symbiote.faef1795f5711d2c0c5e.png",
     "static/media/Agony.png": "/static/media/Agony.7195a8c0c5a2c8936e99.png",
     "static/media/GrandMaster.png": "/static/media/GrandMaster.63b93453870bb00e573f.png",
@@ -31,7 +32,7 @@
     "static/media/Blink.png": "/static/media/Blink.e1056954833221fbf135.png",
     "static/media/Galactus.png": "/static/media/Galactus.d28ff057b902c7bf9ab6.png",
     "static/media/HumanTorch.png": "/static/media/HumanTorch.cd068f42d097cf982164.png",
-    "static/media/Malekith.png": "/static/media/Malekith.145e2b875f5b5387b9bb.png",
+    "static/media/Malekith.png": "/static/media/Malekith.7e8edf66e48088015c81.png",
     "static/media/Bullseye.png": "/static/media/Bullseye.83a0be330a8e47b6ffba.png",
     "static/media/TyphoidMary.png": "/static/media/TyphoidMary.1cc9debec7b7f48f703a.png",
     "static/media/GrappleArrow.png": "/static/media/GrappleArrow.a80f3d9a3146905c773c.png",
@@ -133,14 +134,14 @@
     "static/media/ScarletWitch.png": "/static/media/ScarletWitch.b102dc6e9fe3b4c4605c.png",
     "static/media/Loki.png": "/static/media/Loki.2f11dbce25133a8a88c0.png",
     "static/media/JessicaJones.png": "/static/media/JessicaJones.5ad9cfbea50ea671e475.png",
+    "static/media/Frigga.png": "/static/media/Frigga.487ded89e9b0f896d263.png",
     "static/media/MadameWeb.png": "/static/media/MadameWeb.f59b8f106c6f88663f5e.png",
-    "static/media/Frigga.png": "/static/media/Frigga.b4313b6ffda8bdc41b06.png",
     "static/media/Beast.png": "/static/media/Beast.d16aad99ec4d48367433.png",
     "static/media/AgentVenom.png": "/static/media/AgentVenom.56a71faa4fde303fd584.png",
     "static/media/Heimdall.png": "/static/media/Heimdall.f133e0c24f7f2af538e4.png",
     "static/media/RedHulk.png": "/static/media/RedHulk.8182cb0e8b5bcf55977a.png",
     "static/media/Gilgamesh.png": "/static/media/Gilgamesh.49070524db18ba508730.png",
-    "static/media/Surtur.png": "/static/media/Surtur.0454b0fc79d893661090.png",
+    "static/media/Surtur.png": "/static/media/Surtur.39650a7574a5891325ab.png",
     "static/media/KateBishop.png": "/static/media/KateBishop.5bf42604a83162a03ec3.png",
     "static/media/Selene.png": "/static/media/Selene.947901b7220c79b3c26f.png",
     "static/media/AntiVenom.png": "/static/media/AntiVenom.b01a4b88dc0f11809a3a.png",
@@ -172,6 +173,7 @@
     "static/media/X23.png": "/static/media/X23.ecc5c5319752b7cc40b5.png",
     "static/media/Lockjaw.png": "/static/media/Lockjaw.8219227e9831ce25ef87.png",
     "static/media/MysterioUnrevealed.png": "/static/media/MysterioUnrevealed.7c236199d6b22b0c73b4.png",
+    "static/media/KingEitri.png": "/static/media/KingEitri.3b1607dc375d85d6d255.png",
     "static/media/Stryfe.png": "/static/media/Stryfe.2aa8c1b2599e391f466e.png",
     "static/media/Infinaut.png": "/static/media/Infinaut.bb1af24967a5e0c09dbe.png",
     "static/media/Arishem.png": "/static/media/Arishem.5ecd2172704dd72aad56.png",
@@ -342,8 +344,8 @@
     "static/media/Spell04NicoMinoru.png": "/static/media/Spell04NicoMinoru.59b913ecd979a7d12a95.png",
     "static/media/Spell03NicoMinoru.png": "/static/media/Spell03NicoMinoru.21f91e2d7ee7e0b4c6e2.png",
     "static/media/Random.png": "/static/media/Random.359f52b62dfe60fa0daa.png",
+    "static/media/Gorr.png": "/static/media/Gorr.bc8cfa7d0d39671fb615.png",
     "static/media/KittyPryde.png": "/static/media/KittyPryde.0da6391400c5c4c66023.png",
-    "static/media/Gorr.png": "/static/media/Gorr.b3de558a9260176208c4.png",
     "static/media/MrNegative.png": "/static/media/MrNegative.dc3d25d1914d3e80f121.png",
     "static/media/WhiteWidow.png": "/static/media/WhiteWidow.ae3add6376a135e2687d.png",
     "static/media/BlueMarvel.png": "/static/media/BlueMarvel.f2b7bc250fc70ad2edd8.png",
@@ -368,7 +370,6 @@
     "static/media/Toad.png": "/static/media/Toad.9fd319a6e7db6007a687.png",
     "static/media/template.png": "/static/media/template.e41435726b3dc08d855e.png",
     "static/media/GoblinQueen.png": "/static/media/GoblinQueen.373cde6acfb78ebf20c6.png",
-    "static/media/KingEitri.png": "/static/media/KingEitri.dde1c1fadd2cb31e4d8a.png",
     "static/media/YoYo.png": "/static/media/YoYo.86cd51697a743d6f627a.png",
     "static/media/NightNurse.png": "/static/media/NightNurse.bc6a8fe1f2fb48a68cb8.png",
     "static/media/Flatman.png": "/static/media/Flatman.2d539e3f11dc8c54d399.png",
@@ -390,6 +391,6 @@
   },
   "entrypoints": [
     "static/css/main.e36972a1.css",
-    "static/js/main.5b57eeb7.js"
+    "static/js/main.51357aa1.js"
   ]
 }
