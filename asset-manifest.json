@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e36972a1.css",
-    "main.js": "/static/js/main.40c87e63.js",
+    "main.js": "/static/js/main.7651af80.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/Iceman.png": "/static/media/Iceman.da2f1b16bae118c18175.png",
     "static/media/Snowguard.png": "/static/media/Snowguard.c4dd3afad1173aed5b56.png",
@@ -37,6 +37,7 @@
     "static/media/TyphoidMary.png": "/static/media/TyphoidMary.1cc9debec7b7f48f703a.png",
     "static/media/GrappleArrow.png": "/static/media/GrappleArrow.a80f3d9a3146905c773c.png",
     "static/media/GhostSpider.png": "/static/media/GhostSpider.86b9ffd5f34bc175bab2.png",
+    "static/media/Sabretooth.png": "/static/media/Sabretooth.e7956152d85bb1fa9639.png",
     "static/media/LadyDeathstrike.png": "/static/media/LadyDeathstrike.2a3a5b0de59827f78b61.png",
     "static/media/Namora.png": "/static/media/Namora.66f05f0bfe2275f6499a.png",
     "static/media/GhostRider.png": "/static/media/GhostRider.bcd8cd3760f7cb2f71c9.png",
@@ -63,7 +64,6 @@
     "static/media/MrFantastic.png": "/static/media/MrFantastic.91f49317a9a4f4bb28d4.png",
     "static/media/Mantis.png": "/static/media/Mantis.56ccf1de381497593e42.png",
     "static/media/Arana.png": "/static/media/Arana.60297d7a4c20bf0dfd59.png",
-    "static/media/Sabretooth.png": "/static/media/Sabretooth.0f6b3cd87ad839e94eb8.png",
     "static/media/Enchantress.png": "/static/media/Enchantress.2b3958232984bed7cb2d.png",
     "static/media/RocketRaccoon.png": "/static/media/RocketRaccoon.978e63b10b9de9089347.png",
     "static/media/Shocker.png": "/static/media/Shocker.ccdf573ac17983dc886c.png",
@@ -71,6 +71,7 @@
     "static/media/Sandman.png": "/static/media/Sandman.5ca1672c741f3447471e.png",
     "static/media/Misery.png": "/static/media/Misery.e53805f45b2efd4b416a.png",
     "static/media/JaneFoster.png": "/static/media/JaneFoster.e8e02936e32ede56336f.png",
+    "static/media/Abomination.png": "/static/media/Abomination.8132a00fad1d6eaea52d.png",
     "static/media/IronFist.png": "/static/media/IronFist.d9c3f0dd31df5e595e8b.png",
     "static/media/SpiderMan2099.png": "/static/media/SpiderMan2099.7cb96389f736b8bf49ba.png",
     "static/media/Sage.png": "/static/media/Sage.ac11658600e8a13f1add.png",
@@ -87,7 +88,6 @@
     "static/media/JeanGrey.png": "/static/media/JeanGrey.e21aba9ad2047fade9fa.png",
     "static/media/Gladiator.png": "/static/media/Gladiator.f1492b1cac708220e27d.png",
     "static/media/Carnage.png": "/static/media/Carnage.6001186d64e49a020332.png",
-    "static/media/Abomination.png": "/static/media/Abomination.d818ba5f68730acf9ba0.png",
     "static/media/Hazmat.png": "/static/media/Hazmat.6b8938861fc8c6d800a0.png",
     "static/media/Djinn.png": "/static/media/Djinn.8a652c60845a9248b940.png",
     "static/media/Stegron.png": "/static/media/Stegron.ba0994d21042cfac3ef4.png",
@@ -351,11 +351,11 @@
     "static/media/BlueMarvel.png": "/static/media/BlueMarvel.f2b7bc250fc70ad2edd8.png",
     "static/media/BuckyBarnes.png": "/static/media/BuckyBarnes.84dc8ddf4a3d24d2ba03.png",
     "static/media/FenrisWolf.png": "/static/media/FenrisWolf.1b86f27be4c6d3925343.png",
+    "static/media/Rock.png": "/static/media/Rock.773ebbe8e94b364976c1.png",
     "static/media/Nimrod.png": "/static/media/Nimrod.dc429b8814b65251b015.png",
     "static/media/CaptainAmerica.png": "/static/media/CaptainAmerica.7a5403654bec7627644c.png",
     "static/media/JeffTheBabyLandShark.png": "/static/media/JeffTheBabyLandShark.1299bad0f26425e0bfa0.png",
     "static/media/Goose.png": "/static/media/Goose.b16145a3ee02accb2b77.png",
-    "static/media/Rock.png": "/static/media/Rock.dfb450c22416ae3bc65e.png",
     "static/media/Blob.png": "/static/media/Blob.5fb257d28dc7104fa108.png",
     "static/media/Pig.png": "/static/media/Pig.a4ece2ed03ff69f75676.png",
     "static/media/Cerebro.png": "/static/media/Cerebro.e449acd5c600565328b2.png",
@@ -391,6 +391,6 @@
   },
   "entrypoints": [
     "static/css/main.e36972a1.css",
-    "static/js/main.40c87e63.js"
+    "static/js/main.7651af80.js"
   ]
 }
