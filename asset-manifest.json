@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e36972a1.css",
-    "main.js": "/static/js/main.02b3aecb.js",
+    "main.js": "/static/js/main.789d0296.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/Iceman.png": "/static/media/Iceman.da2f1b16bae118c18175.png",
     "static/media/Snowguard.png": "/static/media/Snowguard.c4dd3afad1173aed5b56.png",
@@ -17,12 +17,12 @@
     "static/media/Firestar.png": "/static/media/Firestar.5761c78907ec8bac7ec1.png",
     "static/media/DoctorStrange.png": "/static/media/DoctorStrange.e51bcc4e560d1d764878.png",
     "static/media/Havok.png": "/static/media/Havok.2c847830e1ae3cda38e3.png",
-    "static/media/ShadowKing.png": "/static/media/ShadowKing.e2e6f2dc41152003b865.png",
     "static/media/GreenGoblin.png": "/static/media/GreenGoblin.4e8e9940037fe11288d2.png",
     "static/media/Annihilus.png": "/static/media/Annihilus.a9114f3cd54d2d594526.png",
     "static/media/Hawkeye.png": "/static/media/Hawkeye.58edb3fa4ff46e554a5f.png",
     "static/media/Laufey.png": "/static/media/Laufey.80afddcc996f8b98cb1b.png",
     "static/media/Symbiote.png": "/static/media/Symbiote.faef1795f5711d2c0c5e.png",
+    "static/media/ShadowKing.png": "/static/media/ShadowKing.d075588d144ece31c0af.png",
     "static/media/Agony.png": "/static/media/Agony.7195a8c0c5a2c8936e99.png",
     "static/media/GrandMaster.png": "/static/media/GrandMaster.63b93453870bb00e573f.png",
     "static/media/Deathlok.png": "/static/media/Deathlok.4a9b8191db29142b6072.png",
@@ -391,6 +391,6 @@
   },
   "entrypoints": [
     "static/css/main.e36972a1.css",
-    "static/js/main.02b3aecb.js"
+    "static/js/main.789d0296.js"
   ]
 }
