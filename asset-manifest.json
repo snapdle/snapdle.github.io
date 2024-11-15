@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e36972a1.css",
-    "main.js": "/static/js/main.7e461d19.js",
+    "main.js": "/static/js/main.af2169ab.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/Iceman.png": "/static/media/Iceman.da2f1b16bae118c18175.png",
     "static/media/Snowguard.png": "/static/media/Snowguard.c4dd3afad1173aed5b56.png",
@@ -191,6 +191,7 @@
     "static/media/SnowguardHawk.png": "/static/media/SnowguardHawk.d2a283f5debcf9aec93e.png",
     "static/media/ArnimZola.png": "/static/media/ArnimZola.192bf8c7541fabb29946.png",
     "static/media/Silk.png": "/static/media/Silk.d0c65270e60de8f4f02c.png",
+    "static/media/SPdr.png": "/static/media/SPdr.705fec48c607d2540329.png",
     "static/media/MistyKnight.png": "/static/media/MistyKnight.f6d8073db2a4518b6a00.png",
     "static/media/CullObsidian.png": "/static/media/CullObsidian.cbdedea36eb51895f626.png",
     "static/media/TimeStone.png": "/static/media/TimeStone.001b38c2c307c0b418c6.png",
@@ -404,6 +405,6 @@
   },
   "entrypoints": [
     "static/css/main.e36972a1.css",
-    "static/js/main.7e461d19.js"
+    "static/js/main.af2169ab.js"
   ]
 }
