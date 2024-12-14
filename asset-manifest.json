@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e36972a1.css",
-    "main.js": "/static/js/main.0f73170b.js",
+    "main.js": "/static/js/main.209bfad0.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/Iceman.png": "/static/media/Iceman.da2f1b16bae118c18175.png",
     "static/media/Snowguard.png": "/static/media/Snowguard.c4dd3afad1173aed5b56.png",
@@ -326,6 +326,7 @@
     "static/media/Falcon.png": "/static/media/Falcon.dd25573bf1635004b0d9.png",
     "static/media/Sera.png": "/static/media/Sera.95febb65355b5ca0fb24.png",
     "static/media/Spell02NicoMinoru.png": "/static/media/Spell02NicoMinoru.73a1a80aa0e625b653a1.png",
+    "static/media/ThaddeusRoss.png": "/static/media/ThaddeusRoss.137215a711849da93b34.png",
     "static/media/Hellcow.png": "/static/media/Hellcow.575c09f20bd91a5a8a95.png",
     "static/media/Rockslide.png": "/static/media/Rockslide.4beb9afba8a521ece397.png",
     "static/media/LukeCage.png": "/static/media/LukeCage.66066a231ec37653c783.png",
@@ -412,6 +413,6 @@
   },
   "entrypoints": [
     "static/css/main.e36972a1.css",
-    "static/js/main.0f73170b.js"
+    "static/js/main.209bfad0.js"
   ]
 }
