@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e36972a1.css",
-    "main.js": "/static/js/main.47e240f5.js",
+    "main.js": "/static/js/main.83624255.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/Iceman.png": "/static/media/Iceman.da2f1b16bae118c18175.png",
     "static/media/Snowguard.png": "/static/media/Snowguard.c4dd3afad1173aed5b56.png",
@@ -80,8 +80,8 @@
     "static/media/SpiderMan2099.png": "/static/media/SpiderMan2099.7cb96389f736b8bf49ba.png",
     "static/media/Sage.png": "/static/media/Sage.ac11658600e8a13f1add.png",
     "static/media/Groot.png": "/static/media/Groot.7b690ca467ac834773fb.png",
+    "static/media/Stormbreaker.png": "/static/media/Stormbreaker.ab49150c613c11e89a36.png",
     "static/media/Namor.png": "/static/media/Namor.d32ea52f717f7e2e3790.png",
-    "static/media/Stormbreaker.png": "/static/media/Stormbreaker.9900cc87c8cb0a58d2f3.png",
     "static/media/Shanna.png": "/static/media/Shanna.c1d7a9e8394ad950c811.png",
     "static/media/Nightcrawler.png": "/static/media/Nightcrawler.1d49331a0698b3971671.png",
     "static/media/Sunspot.png": "/static/media/Sunspot.7f02d2cc85acdc7c1e85.png",
@@ -91,6 +91,7 @@
     "static/media/TheVoid.png": "/static/media/TheVoid.4dfd8825d53397024c75.png",
     "static/media/DoomBot2099.png": "/static/media/DoomBot2099.3a4cc74a6201718902ed.png",
     "static/media/JeanGrey.png": "/static/media/JeanGrey.e21aba9ad2047fade9fa.png",
+    "static/media/Lasher.png": "/static/media/Lasher.fb2f27ac22d8b5d85006.png",
     "static/media/Gladiator.png": "/static/media/Gladiator.f1492b1cac708220e27d.png",
     "static/media/Carnage.png": "/static/media/Carnage.6001186d64e49a020332.png",
     "static/media/Hazmat.png": "/static/media/Hazmat.6b8938861fc8c6d800a0.png",
@@ -413,6 +414,6 @@
   },
   "entrypoints": [
     "static/css/main.e36972a1.css",
-    "static/js/main.47e240f5.js"
+    "static/js/main.83624255.js"
   ]
 }
