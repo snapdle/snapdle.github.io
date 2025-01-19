@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e36972a1.css",
-    "main.js": "/static/js/main.a7e1643b.js",
+    "main.js": "/static/js/main.74d6de35.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/Iceman.png": "/static/media/Iceman.da2f1b16bae118c18175.png",
     "static/media/Snowguard.png": "/static/media/Snowguard.c4dd3afad1173aed5b56.png",
@@ -9,6 +9,7 @@
     "static/media/Crystal.png": "/static/media/Crystal.6f4032215688bf533241.png",
     "static/media/BetaRayBill.png": "/static/media/BetaRayBill.0aee4bd02df985b39c98.png",
     "static/media/MariaHill.png": "/static/media/MariaHill.1c104e17bc02ac3aec7b.png",
+    "static/media/Spell01Agamotto.png": "/static/media/Spell01Agamotto.4b7c56e1fac28282b6cb.png",
     "static/media/Starlord.png": "/static/media/Starlord.9f5deb4515cd53f67b24.png",
     "static/media/ThePhoenixForce.png": "/static/media/ThePhoenixForce.4102b307c09107686fd0.png",
     "static/media/Nova.png": "/static/media/Nova.0c1888021870e40805cb.png",
@@ -20,6 +21,7 @@
     "static/media/Havok.png": "/static/media/Havok.2c847830e1ae3cda38e3.png",
     "static/media/GreenGoblin.png": "/static/media/GreenGoblin.4e8e9940037fe11288d2.png",
     "static/media/Annihilus.png": "/static/media/Annihilus.a9114f3cd54d2d594526.png",
+    "static/media/Agamotto.png": "/static/media/Agamotto.966fd3485de2a82ebdf5.png",
     "static/media/Hawkeye.png": "/static/media/Hawkeye.58edb3fa4ff46e554a5f.png",
     "static/media/Laufey.png": "/static/media/Laufey.80afddcc996f8b98cb1b.png",
     "static/media/Symbiote.png": "/static/media/Symbiote.faef1795f5711d2c0c5e.png",
@@ -39,6 +41,7 @@
     "static/media/GhostSpider.png": "/static/media/GhostSpider.86b9ffd5f34bc175bab2.png",
     "static/media/Sabretooth.png": "/static/media/Sabretooth.e7956152d85bb1fa9639.png",
     "static/media/LadyDeathstrike.png": "/static/media/LadyDeathstrike.2a3a5b0de59827f78b61.png",
+    "static/media/Starbrand.png": "/static/media/Starbrand.c837a9bf4012a31c936f.png",
     "static/media/Namora.png": "/static/media/Namora.66f05f0bfe2275f6499a.png",
     "static/media/GhostRider.png": "/static/media/GhostRider.bcd8cd3760f7cb2f71c9.png",
     "static/media/NickFury.png": "/static/media/NickFury.3fd26a4d2d306777e5d6.png",
@@ -64,9 +67,12 @@
     "static/media/Wolfsbane.png": "/static/media/Wolfsbane.b62faba030bef8e17e43.png",
     "static/media/Galacta.png": "/static/media/Galacta.215fad0423c15d5ee074.png",
     "static/media/Hobgoblin.png": "/static/media/Hobgoblin.b78ab7c97ba379f5b399.png",
+    "static/media/Spell02Agamotto.png": "/static/media/Spell02Agamotto.e3c8963227fbe2da62dc.png",
     "static/media/AcidArrow.png": "/static/media/AcidArrow.f1020f291e6349ac0c22.png",
     "static/media/Wave.png": "/static/media/Wave.729d24f259a773c6cb06.png",
+    "static/media/Spell03Agamotto.png": "/static/media/Spell03Agamotto.b892e5f6fa7b40facd15.png",
     "static/media/MrFantastic.png": "/static/media/MrFantastic.91f49317a9a4f4bb28d4.png",
+    "static/media/Firehair.png": "/static/media/Firehair.9206790a791b52e14cf4.png",
     "static/media/Mantis.png": "/static/media/Mantis.56ccf1de381497593e42.png",
     "static/media/Arana.png": "/static/media/Arana.60297d7a4c20bf0dfd59.png",
     "static/media/RocketRaccoon.png": "/static/media/RocketRaccoon.978e63b10b9de9089347.png",
@@ -187,6 +193,7 @@
     "static/media/MysterioUnrevealed.png": "/static/media/MysterioUnrevealed.7c236199d6b22b0c73b4.png",
     "static/media/KingEitri.png": "/static/media/KingEitri.3b1607dc375d85d6d255.png",
     "static/media/Stryfe.png": "/static/media/Stryfe.2aa8c1b2599e391f466e.png",
+    "static/media/Khonshu.png": "/static/media/Khonshu.840af8aa197ae7634ca3.png",
     "static/media/Infinaut.png": "/static/media/Infinaut.bb1af24967a5e0c09dbe.png",
     "static/media/Arishem.png": "/static/media/Arishem.5ecd2172704dd72aad56.png",
     "static/media/Squirrel.png": "/static/media/Squirrel.1f26a4acb0f50cf44e23.png",
@@ -239,6 +246,7 @@
     "static/media/NicoMinoru.png": "/static/media/NicoMinoru.21d7e79d894d99a509e0.png",
     "static/media/Thor.png": "/static/media/Thor.b567c037fa05b3f25270.png",
     "static/media/Storm.png": "/static/media/Storm.9643aea2d2a579159b74.png",
+    "static/media/Eson.png": "/static/media/Eson.8f32ae0c2f4d73c83e2c.png",
     "static/media/Debrii.png": "/static/media/Debrii.5ef1e0dc6237dfe10007.png",
     "static/media/JJonahJameson.png": "/static/media/JJonahJameson.d57b93bf3658c01275de.png",
     "static/media/Aero.png": "/static/media/Aero.a127f5ab6a7ecf379a36.png",
@@ -414,6 +422,6 @@
   },
   "entrypoints": [
     "static/css/main.e36972a1.css",
-    "static/js/main.a7e1643b.js"
+    "static/js/main.74d6de35.js"
   ]
 }
