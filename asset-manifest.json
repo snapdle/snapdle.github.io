@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e36972a1.css",
-    "main.js": "/static/js/main.7db040a5.js",
+    "main.js": "/static/js/main.0ac20efc.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/GhostTheFirstRider.png": "/static/media/GhostTheFirstRider.60a2d343a0c26891afb7.png",
     "static/media/Iceman.png": "/static/media/Iceman.da2f1b16bae118c18175.png",
@@ -433,6 +433,6 @@
   },
   "entrypoints": [
     "static/css/main.e36972a1.css",
-    "static/js/main.7db040a5.js"
+    "static/js/main.0ac20efc.js"
   ]
 }
