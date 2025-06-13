@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e36972a1.css",
-    "main.js": "/static/js/main.a9613936.js",
+    "main.js": "/static/js/main.63754d7a.js",
     "static/media/background.png": "/static/media/background.b63a0cd1b28f33750012.png",
     "static/media/GhostTheFirstRider.png": "/static/media/GhostTheFirstRider.d58a530e530f69b2cd66.png",
     "static/media/Iceman.png": "/static/media/Iceman.973ae3db52208e33d298.png",
@@ -66,6 +66,7 @@
     "static/media/Hercules.png": "/static/media/Hercules.ee3968f930d025d56437.png",
     "static/media/Venom.png": "/static/media/Venom.6684cb7216ed6a24600a.png",
     "static/media/Daredevil.png": "/static/media/Daredevil.9f97002ab29e08b16828.png",
+    "static/media/FlamesOfTheFaltine.png": "/static/media/FlamesOfTheFaltine.34f4a1685178e3da5715.png",
     "static/media/Scorn.png": "/static/media/Scorn.9fa3d4c3df9ff64cea41.png",
     "static/media/Gamora.png": "/static/media/Gamora.b007136ca7bab82b71d6.png",
     "static/media/Galacta.png": "/static/media/Galacta.96ad79b89553d3f7ee8a.png",
@@ -462,6 +463,6 @@
   },
   "entrypoints": [
     "static/css/main.e36972a1.css",
-    "static/js/main.a9613936.js"
+    "static/js/main.63754d7a.js"
   ]
 }
